@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Http Constants</string>
+
+    <string name="accept">Accept</string>
+    <string name="accept_charset">Accept-Charset</string>
+    <string name="accept_encoding">Accept-Encoding</string>
+    <string name="accept_language">Accept-Language</string>
+    <string name="authorization">Authorization</string>
+    <string name="cache_control">Cache-Control</string>
+    <string name="connection">Connection</string>
+    <string name="content_length">Content-Length</string>
+    <string name="content_type">Content-Type</string>
+    <string name="cookie">Cookie</string>
+    <string name="date">Date</string>
+    <string name="etag">ETag</string>
+    <string name="expect">Expect</string>
+    <string name="expires">Expires</string>
+    <string name="host">Host</string>
+    <string name="if_match">If-Match</string>
+    <string name="if_modified_since">If-Modified-Since</string>
+    <string name="if_none_match">If-None-Match</string>
+    <string name="if_unmodified_since">If-Unmodified-Since</string>
+    <string name="last_modified">Last-Modified</string>
+    <string name="location">Location</string>
+    <string name="origin">Origin</string>
+    <string name="pragma">Pragma</string>
+    <string name="referer">Referer</string>
+    <string name="server">Server</string>
+    <string name="set_cookie">Set-Cookie</string>
+    <string name="transfer_encoding">Transfer-Encoding</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="user_agent">User-Agent</string>
+    <string name="vary">Vary</string>
+    <string name="via">Via</string>
+    <string name="warning">Warning</string>
+    <string name="www_authenticate">WWW-Authenticate</string>
 </resources>

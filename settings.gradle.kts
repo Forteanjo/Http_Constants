@@ -21,5 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Http Constants"
 include(":app")
-include(":ktor")
-project(":ktor").projectDir = File("../CentralLibrary/ktor")

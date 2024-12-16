@@ -116,9 +116,6 @@ dependencies {
     // Ktor
     implementation(libs.bundles.io.ktor.client)
 
-    // Local libraries
-    implementation(project(":ktor"))
-
     testImplementation(libs.junit)
 
     testImplementation(libs.io.koin.test)
